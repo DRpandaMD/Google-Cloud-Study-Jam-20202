@@ -1,6 +1,7 @@
 # Google-Cloud-Study-Jam-20202
 My notes for the Google Cloud Study Jam of 2020
 
+google code lab link : https://codelabs.developers.google.com/codelabs/sheets-api/#0
 
 ## Google Sheets as a Reporting Tool: Sheets Api
 
